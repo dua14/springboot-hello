@@ -1,2 +1,3 @@
 com\example\HelloApiApplication.class
-com\example\HelloController.class
+com\example\Controller\HelloController.class
+com\example\bean\Response.class
