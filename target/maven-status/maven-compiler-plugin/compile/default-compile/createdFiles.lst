@@ -1,3 +1,5 @@
+com\example\Controller\StudentController.class
 com\example\HelloApiApplication.class
 com\example\Controller\HelloController.class
 com\example\bean\Response.class
+com\example\bean\Student.class
